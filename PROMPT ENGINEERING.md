@@ -528,11 +528,8 @@ RULES
 
 FORMAT  
 Subject: <short subject>
-
 <Greeting>,
-
 <Body: short sentences, usually 2-3, as the word limit allows>
-
 <Closing>,  
 <Sender name or [Your Name]>
 
